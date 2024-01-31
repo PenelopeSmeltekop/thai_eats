@@ -1,0 +1,89 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+article {
+  background: darkcyan;
+  color: white;
+  padding: 20px;
+
+  margin-top: 2vh;
+  margin-bottom: 1em;
+}
+
+nav {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: navy;
+  font-size: large;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 70px;
+  font-size: larger;
+  margin-right: 1em;
+}
+
+li a:hover {
+  background-color: darkcyan;
+}
+
+p {
+  font-size: large;
+}
+
+h1 {
+  font-size: 3em;
+  color: navy;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: bold;
+  color: navy;
+}
+
+h3 {
+  font-size: larger;
+}
+
+h4 {
+  font-size: larger;
+}
+
+img {
+  height: 150px;
+}
+
+.thaieats {
+font-size: x-large;
+  font-weight: bolder;
+}
+
+input[type=text] {
+  width: 200px; 
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  margin-left:85%;
+}
+
+ul {
+  list-style-type: none;
+display: flex;
+justify-content: center;
+}
+
+article img{
+height: 100px;
+  float: left;
+  padding-right: 1em;
+}
+
+footer {
+  background-color: navy;
+  color: white;
+  padding: 1em;
+}

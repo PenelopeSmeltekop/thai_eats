@@ -1,0 +1,84 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: navy;
+    font-size: large;
+}
+
+.thaieats {
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 70px;
+    font-size: larger;
+    margin-right: 1em;
+}
+
+li a:hover {
+    background-color: darkcyan;
+}
+
+input[type=text] {
+    width: 200px;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    margin-left: 85%;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+h2 {
+    font-size: larger;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+    padding: 1em;
+}
+
+img {
+    margin-right: 1em;
+    width: 200px;
+}
+
+article {
+    padding: 1em;
+    margin: 1em;
+    background-color: darkcyan;
+}
+
+.row_one {
+    display: flex;
+    justify-content: center
+}
+
+.row_two {
+    display: flex;
+    justify-content: center
+}
+
+.row_three {
+    display: flex;
+    justify-content: center
+}
+
+fa-fa-heart {
+width: 50px;
+}
